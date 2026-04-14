@@ -2,3 +2,6 @@ Django
 gunicorn
 python-dotenv
 pillow
+cloudinary
+django-cloudinary-storage
+whitenoise
